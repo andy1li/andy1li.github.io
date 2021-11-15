@@ -1,0 +1,243 @@
+{
+  "series": [
+    {
+      "id": "everyday",
+      "name": "英日双语实用口语"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "everyday-test-001",
+      "idx": "test-001",
+      "scene": "早起场景",
+      "title": "早上起不来，怎么说？",
+      "concepts": [],
+      "seriesId": "everyday"
+    },
+    {
+      "id": "everyday-016",
+      "idx": "016",
+      "scene": "晚上场景",
+      "title": "下班回家，用英日双语怎么说？",
+      "concepts": [
+        "9749c99f-bf44-4f95-9c55-cb6b0fb54bb9",
+        "70346744-cda7-4bbe-9757-967b6c994cfd",
+        "2d75f42e-f4a6-4c9b-900c-c29cd22b3bee",
+        "5157c9ba-e897-4759-bd0b-0b842fcc6dda ",
+        "62fe33d7-e966-40a7-9fbd-700cafe7a030",
+        "51cd02bf-e7e3-45b1-9958-78d201a04a87",
+        "46ff642d-4eec-4d0e-8f00-1f940cd880df"
+      ],
+      "seriesId": "everyday"
+    }
+  ],
+  "concepts": [
+    {
+      "title": "「测试・待删除」哎呀，我正做美梦的时候，醒了！",
+      "notes": "",
+      "sentences": [
+        {
+          "audio": "test/0.0.16.080-0.0.18.890.mp3",
+          "text": "Oh! I was having such a wonderful dream when I woke up!",
+          "phonetic": "əʊ! aɪ wəz hæ vɪŋ sʌ tʃə wʌn dəfəl driːm wen aɪ wəʊ kʌp!",
+          "stress": "SUUSUSUSUSUUSU",
+          "words": []
+        },
+        {
+          "audio": "test/0.0.16.080-0.0.18.890.mp3",
+          "text": "ああ！いいところで目が覚めちゃった。",
+          "kana": "ああ！いいところでめがさめちゃった",
+          "pitch": "LHLHLHLLLLHHLLLLL",
+          "words": []
+        }
+      ],
+      "id": "c1c29698-52b6-4584-bf02-184ea2431a2f",
+      "createdAt": "2021/10/13 04:43:07 UTC",
+      "editedAt": "2021/10/14 23:16:16 UTC"
+    },
+    {
+      "title": "「测试・待删除」我要是再眯一会儿，绝对会睡过头。",
+      "notes": "",
+      "sentences": [
+        {
+          "audio": "test/0.0.16.080-0.0.18.890.mp3",
+          "text": "If I go back to sleep now, I won't be able to wake up on time.",
+          "phonetic": "ɪf aɪ ɡoʊ bæk tə sliːp naʊ, aɪ woʊnt bi əbl tə weɪ kʌpɑːn taɪm.",
+          "stress": "UUSSUSSUSUUUSUS",
+          "words": []
+        },
+        {
+          "audio": "test/0.0.16.080-0.0.18.890.mp3",
+          "text": "ここで二度寝したら、きっとアウトだな…",
+          "kana": "ここでにどねしたら、きっとアウトだな…",
+          "pitch": "LHHLHHHLL_LHHHLLLL_",
+          "words": []
+        }
+      ],
+      "id": "0667d6ea-abfb-4f6a-8954-62cbde7b36a1",
+      "createdAt": "2021/10/13 04:47:46 UTC",
+      "editedAt": "2021/10/13 04:47:46 UTC"
+    },
+    {
+      "title": "白天，越来越长了。",
+      "notes": "",
+      "sentences": [
+        {
+          "audio": "everyday/016/016-p2-en-slow.mp3",
+          "text": "The days are getting longer.  ",
+          "phonetic": "ðə ˈdeɪz ər ˈɡe tɪŋ ˈlɔːŋ ɡər.",
+          "stress": "USUSUSU",
+          "words": []
+        },
+        {
+          "audio": "everyday/016/016-p2-jp-slow.mp3",
+          "text": "日が長くなってきたなぁ。",
+          "kana": "ひがながくなってきたなぁ",
+          "pitch": "LHHLLLLLHLLL",
+          "words": []
+        }
+      ],
+      "id": "62fe33d7-e966-40a7-9fbd-700cafe7a030",
+      "createdAt": "2021/10/14 22:17:11 UTC",
+      "editedAt": "2021/10/14 23:17:22 UTC"
+    },
+    {
+      "title": "哎呀，我居然(早上出门时)空调没关，就走了！",
+      "notes": "",
+      "sentences": [
+        {
+          "audio": "everyday/016/016-p3-en-slow.mp3",
+          "text": "Oops, I forgot to turn off the air conditioner when I left.",
+          "phonetic": "uːps，aɪ fɚ ˈɡɑː t  tə ˈtɜ:  nɔːf  ði ˈeər  kən ˈdɪ ʃənər  hwe naɪ ˈleft .",
+          "stress": "UUSUUUSUUUUSUUSUUUUSU",
+          "words": []
+        },
+        {
+          "audio": "everyday/016/016-p3-jp-slow.mp3",
+          "text": "うわ、エアコンつけっ放しで出ちゃったんだ。",
+          "kana": "うわ、エアコンつけっぱなしででちゃったんだ",
+          "pitch": "LH_LHHHLHHHHHHHLLLLLL",
+          "words": []
+        }
+      ],
+      "id": "51cd02bf-e7e3-45b1-9958-78d201a04a87",
+      "createdAt": "2021/10/14 23:35:45 UTC",
+      "editedAt": "2021/10/14 23:59:03 UTC"
+    },
+    {
+      "title": "虽然这个看上去不怎么好吃吧，但今晚也只能把它热一下，对付一顿了。",
+      "notes": "",
+      "sentences": [
+        {
+          "audio": "everyday/016/016-p4-en-slow.mp3",
+          "text": "It's not very appetizing, but I’ll just microwave this for dinner.",
+          "phonetic": "ɪts ˈnɑː t  veri  ˈæpə ˌtaɪzɪŋ ，bətəl  dʒəst  ˈmaɪ krəweɪv ðɪs fər ˈdɪnər .",
+          "stress": "USUUUUSUUUUUSUUUSU",
+          "words": []
+        },
+        {
+          "audio": "everyday/016/016-p4-jp-slow.mp3",
+          "text": "味気ないけど、とりあえず、今晩はこれをレンジでチンして済ませよう。",
+          "kana": "あじけないけど、とりあえず、こんばんはこれをレンジでチンしてすませよう",
+          "pitch": "LHHHLLL_LHHLL_HLLLLLHHHLLLHLLLLHHHL",
+          "words": []
+        }
+      ],
+      "id": "46ff642d-4eec-4d0e-8f00-1f940cd880df",
+      "createdAt": "2021/10/15 00:13:20 UTC",
+      "editedAt": "2021/10/15 01:41:44 UTC"
+    },
+    {
+      "title": "回家",
+      "notes": "",
+      "sentences": [
+        {
+          "audio": "everyday/016/016-p1-01-en-slow.mp3",
+          "text": "I get home.",
+          "phonetic": "aɪ ˈge t hoʊm.",
+          "stress": "USUU",
+          "words": []
+        },
+        {
+          "audio": "everyday/016/016-p1-01-jp-slow.mp3",
+          "text": "帰宅する。",
+          "kana": "きたくする",
+          "pitch": "LHHHH",
+          "words": []
+        }
+      ],
+      "id": "9749c99f-bf44-4f95-9c55-cb6b0fb54bb9",
+      "createdAt": "2021/10/15 00:32:09 UTC",
+      "editedAt": "2021/10/15 00:43:12 UTC"
+    },
+    {
+      "title": "开门",
+      "notes": "",
+      "sentences": [
+        {
+          "audio": "everyday/016/016-p1-02-en-slow.mp3",
+          "text": "I unlock the front door.",
+          "phonetic": "aɪ ʌn ˈlɑː k ðə frʌnt ˈdɔːr.",
+          "stress": "UUSUUUS",
+          "words": []
+        },
+        {
+          "audio": "everyday/016/016-p1-02-jp-slow.mp3",
+          "text": "玄関の鍵を開ける。",
+          "kana": "げんかんのかぎをあける",
+          "pitch": "HLLLLLHLLHH",
+          "words": []
+        }
+      ],
+      "id": "70346744-cda7-4bbe-9757-967b6c994cfd",
+      "createdAt": "2021/10/15 00:34:32 UTC",
+      "editedAt": "2021/10/15 00:42:58 UTC"
+    },
+    {
+      "title": "开灯",
+      "notes": "",
+      "sentences": [
+        {
+          "audio": "everyday/016/016-p1-03-en-slow.mp3",
+          "text": "I turn on the lights.",
+          "phonetic": "aɪ ˈtɜ: nɑːn ðə ˈlaɪts.",
+          "stress": "USUUS",
+          "words": []
+        },
+        {
+          "audio": "everyday/016/016-p1-03-jp-slow.mp3",
+          "text": "電気をつける。",
+          "kana": "でんきをつける",
+          "pitch": "HLLLLHL",
+          "words": []
+        }
+      ],
+      "id": "2d75f42e-f4a6-4c9b-900c-c29cd22b3bee",
+      "createdAt": "2021/10/15 00:36:17 UTC",
+      "editedAt": "2021/10/15 00:36:17 UTC"
+    },
+    {
+      "title": "挂上衣",
+      "notes": "",
+      "sentences": [
+        {
+          "audio": "everyday/016/016-p1-04-en-slow.mp3",
+          "text": "I hang up my jacket.",
+          "phonetic": "aɪ ˈhæ ŋʌp maɪ ˈdʒæ kɪt.",
+          "stress": "USUUSU",
+          "words": []
+        },
+        {
+          "audio": "everyday/016/016-p1-04-jp-slow.mp3",
+          "text": "上着をハンガーに掛ける。",
+          "kana": "うわぎをハンガーにかける",
+          "pitch": "LHHHHLLLLLHL",
+          "words": []
+        }
+      ],
+      "id": "5157c9ba-e897-4759-bd0b-0b842fcc6dda",
+      "createdAt": "2021/10/15 00:37:57 UTC",
+      "editedAt": "2021/10/15 00:41:41 UTC"
+    }
+  ]
+}
